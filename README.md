@@ -93,6 +93,9 @@ Best Regards
 ### Full Stack Development
 <br />
 
+### Database Management
+<br />
+
 ### Blockchain & Smart Contract
 <br />
 
