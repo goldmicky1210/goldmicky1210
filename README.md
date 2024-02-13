@@ -102,15 +102,3 @@ Best Regards
 </div>
 
 <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=goldmicky1210&theme=github&count_private=true" /></p>
-
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝒖𝒔
-
-<a href="mailto:goldmicky1210@gmail.com">
-    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://join.skype.com/invite/xNX5bDzI5J47">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>
-<a href="https://t.me/goldmicky1210">
-    <img src="https://img.shields.io/badge/telegram-%231DA1F3.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
