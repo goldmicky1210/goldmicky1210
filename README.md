@@ -86,6 +86,8 @@ Best Regards
 <br/>  
 
 <div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<br />
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 ### Frontend Development
 <br />
@@ -99,8 +101,7 @@ Best Regards
 ### Blockchain & Smart Contract
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-<br />
+
 </div>
 
 <p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=goldmicky1210&theme=github&count_private=true" /></p>
