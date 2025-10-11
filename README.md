@@ -87,6 +87,7 @@ Best Regards
 <div>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<br />
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 ### Frontend Development
