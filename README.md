@@ -80,14 +80,13 @@ Best Regards
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldmicky1210&layout=compact&theme=merko&count_private=true" />
 <img height="150px" /> 
 
-<br/>  
-<br />
-## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
+
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 <br />
- 
+
+## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 ### Frontend Development
 <br />
 
