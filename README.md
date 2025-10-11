@@ -81,11 +81,12 @@ Best Regards
 <img height="150px" /> 
 
 <br/>  
-
+<br />
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+<br />
  
 ### Frontend Development
 <br />
